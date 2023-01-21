@@ -1,0 +1,10 @@
+import java.util.*;
+public class IdiomaSistema {
+
+    public static void main(String[] args) {
+        Locale loca = Locale.getDefault();
+        System.out.println("Idioma local é   ");
+        System.out.println(loca);
+    }
+    
+}
